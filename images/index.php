@@ -1,0 +1,1 @@
+<script>window.location = 'http://localhost/shop/404.php';</script>
